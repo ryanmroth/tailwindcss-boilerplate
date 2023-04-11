@@ -7,7 +7,7 @@ A Tailwind CSS boilerplate for HTML projects
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/ryanmroth/tailwind-boilerplate.git <YOUR_PROJECT_NAME>
+   git clone https://github.com/ryanmroth/tailwindcss-boilerplate.git <YOUR_PROJECT_NAME>
 
    cd <YOUR_PROJECT_NAME>
    ```
