@@ -1,0 +1,35 @@
+{
+  "name": "tailwindcss-boilerplate",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS boilerplate for HTML projects.",
+  "main": "index.html",
+  "scripts": {
+    "build:css": "postcss src/css/style.css -o dist/css/style.css",
+    "watch": "watch 'npm run build:css' ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanmroth/tailwindcss-boilerplate.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "boilerplate",
+    "postcss"
+  ],
+  "author": "ryanmroth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanmroth/tailwindcss-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ryanmroth/tailwindcss-boilerplate/blob/main/README.md",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss-cli": "^10.1.0",
+    "tailwindcss": "^3.3.1"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "cssnano": "^6.0.0",
+    "watch": "^0.13.0"
+  }
+}
