@@ -28,6 +28,6 @@ A Tailwind CSS boilerplate for HTML projects
 
 ## Inspiration & Thanks
 
-@salttechno [Tailwind CSS Boilerplate](https://github.com/salttechno/tailwindcss-boilerplate)
-@flaviocopes [Tailwind with PurgeCSS and PostCSS](https://flaviocopes.com/tailwind-setup/)
+@salttechno [Tailwind CSS Boilerplate](https://github.com/salttechno/tailwindcss-boilerplate)  
+@flaviocopes [Tailwind with PurgeCSS and PostCSS](https://flaviocopes.com/tailwind-setup/)  
 @adamwathan [Set up Tailwind and PostCSS](https://egghead.io/lessons/tailwind-set-up-tailwind-and-postcss)
